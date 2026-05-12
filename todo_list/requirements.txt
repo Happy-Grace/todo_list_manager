@@ -1,0 +1,10 @@
+# A TO-DO LIST MANAGER/APP
+        # WHAT ARE ITS REQUIREMENTS?:
+        # ----> Should display the menus to user
+        # ----> Should allow user to add a task
+        # ----> Should allow user to view all tasks
+        # ----> Should allow user to mark a task as completed
+        # ----> Should allow user to delete a task
+        # ----> Should allow user to edit a task
+        # ----> Should allow user to exit the application
+        # 
